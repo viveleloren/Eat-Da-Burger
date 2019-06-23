@@ -1,10 +1,10 @@
 # Eat-Da-Burger
 
-UCD Coding Boot Camp - Eat-Da-Burger - Assignment #12 (Node, Express, Handlebars)
+UCD Coding Boot Camp - Eat-Da-Burger - Assignment #14 (Node, Express, Handlebars)
 
  <p></p>
  
-**Project Description** - Eat-Da-Burger is a full-stack web application that ??.
+**Project Description** - The goal was to create a Burger App using Node Express Handlebars and our own ORM. It uses the MVC design pattern, Node and MySQL to query and route data to the app and Handlebars to generate the HTML.
 
 ## Application Heroku Link
 
